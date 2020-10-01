@@ -27,6 +27,3 @@ section,Section
 type,Type,,DCTERMS.type
 format,Format,,,encodingFormat
 rightsstatement,,,DCTERMS.rights,license
-
-
-objectid,filename,title,subject,map_type,county,location,district,latitude,longitude,geomethod,format,datum,date,company,comments,drawer,scanned,optimized,map_width_inches,map_length_inches,relations_defined,relations_defined_staff,map_scale,township,range,section
