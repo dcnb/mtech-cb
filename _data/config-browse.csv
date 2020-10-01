@@ -1,6 +1,6 @@
-field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
+field,display_name,btn,hidden
+date,Date,
 subject,,true
+county,,true
 location,,true
-identifier,,,true,Identifier
+district,,true

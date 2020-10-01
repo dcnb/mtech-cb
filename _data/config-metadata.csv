@@ -4,11 +4,29 @@ creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
-location,Location,,,contentLocation
+map_type,Map Type,true,,
+location,Location,true,,contentLocation
+county,County,true,,contentLocation
 latitude,Latitude
 longitude,Longitude
-source,Source
-identifier,Source Identifier
+geomethod,Geo Method
+datum,Datum
+company,Company
+comments,Comments
+drawer,Drawer
+scanned,Scanned
+optimized,Optimized
+map_width_inches,Map Width (in.)
+map_length_inches,Map Length (in.)
+relations_defined,Relations Defined
+relations_defined_staff,Relations Defined Staff
+map_scale,Map Scale
+township,Township
+range,Range
+section,Section
 type,Type,,DCTERMS.type
 format,Format,,,encodingFormat
 rightsstatement,,,DCTERMS.rights,license
+
+
+objectid,filename,title,subject,map_type,county,location,district,latitude,longitude,geomethod,format,datum,date,company,comments,drawer,scanned,optimized,map_width_inches,map_length_inches,relations_defined,relations_defined_staff,map_scale,township,range,section
